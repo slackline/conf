@@ -1,2 +1,5 @@
 # conf
-Mundane configuration files
+Mundane configuration files from some of my systems.
+
+ * Bash
+ * ZSH
